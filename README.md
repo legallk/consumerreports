@@ -7,5 +7,5 @@ The React application prompts user to enter a string, after submit the backend p
 Command to Generate SQL Table:
 `CREATE TABLE data ( id varchar(50) primary key, date_created datetime, user_string varchar(50), results varchar(50))`
 
-Be sure to change `const postURL` in `src/App.js` to reflect the localhost. 
+Be sure to change contents of `const postURL` in `src/App.js` to reflect the localhost. 
 
